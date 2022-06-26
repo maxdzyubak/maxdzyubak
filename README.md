@@ -5,6 +5,7 @@
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning Frontend on <a href="https://hexlet.io">Hexlet.io</a>
+<!-- - 💻 My skills -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->

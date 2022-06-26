@@ -8,6 +8,6 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: t.me/dzyubak and maxdzyubak@gmail.com
+- 📫 How to reach me: <a href="t.me/dzyubak">telegram</a> and <a href="maxdzyubak@gmail.com">e-mail</a>
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I love books, hikes, running, skyrunning, football, basketball, chess

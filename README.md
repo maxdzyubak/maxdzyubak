@@ -11,4 +11,4 @@
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: <a href="https://t.me/dzyubak">telegram</a> and <a href="mailto: maxdzyubak@gmail.com">e-mail</a>
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: I love books, hikes, running, skyrunning, football, basketball, chess
+- ⚡ Fun fact: I love books, hikes, running, skyrunning, football, basketball and chess

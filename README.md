@@ -3,7 +3,7 @@
 **maxdzyubak/maxdzyubak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Frontend on <a href="https://hexlet.io">Hexlet.io</a>
+- 🌱 I’m currently learning Phyton on <a href="https://hexlet.io">Hexlet.io</a>
 
 - 💻 My skills: html, css, js, git
 <!-- - 👯 I’m looking to collaborate on ... -->
@@ -11,4 +11,4 @@
 <!-- - 💬 Ask me about ... -->
 - 📩 How to reach me: <a href="https://t.me/maxdzyubak">telegram</a> or <a href="mailto: maxdzyubak@gmail.com">e-mail</a>
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: I love books, hikes, running, skyrunning, football, basketball and chess
+- ⚡ I like: football, basketball, hiking, skyrunning, walks in an empty city, play chess and reeding books

@@ -5,7 +5,7 @@
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning Phyton on <a href="https://hexlet.io">Hexlet.io</a>
 
-- 💻 My skills: html, css, js, git
+- 💻 My skills: Git, Phyton, Html, Css, Js
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->

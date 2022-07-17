@@ -1,4 +1,4 @@
-<-- ###  Hi there. My name is Maxim Dzyubak. I'm DevJun
+<!-- ###  Hi there. My name is Maxim Dzyubak. I'm DevJun
 <!--
 **maxdzyubak/maxdzyubak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
@@ -12,4 +12,4 @@
 - 📩 How to reach me: <a href="https://t.me/maxdzyubak">telegram</a> or <a href="mailto: maxdzyubak@gmail.com">e-mail</a>
 <!-- - 😄 Pronouns: ... -->
 - ⚡ I like: football, basketball, hiking, skyrunning, walks in an empty city, play chess and reeding books
--->
+--!>
